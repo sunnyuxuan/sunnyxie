@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Homepage</title>
+        <meta name="description" content="Hello, Welcome to Sunny's World. This is a
+        sunny girl's interactive story museum, where you could see diverting photos about her journey around the world and glance at her updated project. ">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="css/main.css">
+       <link href='https://fonts.googleapis.com/css?family=Kranky' rel='stylesheet' type='text/css'>
+       <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+    </head>
+    
+    
+    <body>
+       
+       <div class="container">
+       
+		<header>
+            <h1 class="h1">Welcome to Sunny's World</h1>
+		</header>
+       
+        <nav>
+          <img src="img/profile.png" alt="profile" class="profile">
+            <h4 class="h4">Yuxuan Xie</h4>
+          
+          <ul>
+				<li><a href="index.html">Homepage</a></li>
+				<li><a href="Blog.html">Blog</a></li>
+				<li><a href="Project.html">Project</a></li>
+				<li><a href="Photo.html">Photo</a></li>
+			
+            </ul>
+           </nav>
+           
+           
+           
+        <main>
+        
+        <section class="intro"> 
+         
+            <h2 class="h2">My Story</h2> 
+            
+            <figure>
+            <img src="img/sunny.jpg" alt="sunny" class="photo">
+            </figure>
+            
+            <p class="p">
+            My name is Sunny,an international graduate student from China. Major in Interactive Media. Now I study in school of communication in University of Miami. 
+            <br><br>
+            Two years ago, I went to West Virginia University to study journalism as an exchanged student. It's a fantastic experience to find out my potential and build up my confidence, for example, making a self-guided traveling plan to different cities during spring break and winter break, from New York to Atlanta, from Orlando to Miami, from Houston to San Antonio, from San Francisco to LA. 
+            <br><br>
+            After went back to China, I took TOEFL and GRE exams and passed successfully. I know I have a great interest in new media, that's why I choose to study Interactive Media Program. Hope I could make some excellent achievements.  
+            
+            </p>
+        </section>
+
+       <section class="hobby">
+           <h3 class="h3">My Hobby</h3>
+           <ul>
+               <li><a href="https://zh.airbnb.com/">Traveling</a></li>
+               
+               <li><a href="http://www.qdaily.com/">Reading</a></li>
+              
+               <li><a href="http://extreme.com/">Swimming</a></li>
+             
+               <li><a href="http://floridahikes.com/miami">Hiking</a></li>
+           
+               <li><a href="http://lens.blogs.nytimes.com/?_r=0">Photography</a></li>
+           </ul>
+           
+           
+            </section>
+        </main>
+        
+       
+        
+        <footer>
+				<p><em>Contact Me:<br>Phone Number:786-781-8262<br>E-mail:monkeyuxuan@126.com<br>
+				&copy;2015 SunnyXie. Personal Blog.
+				</em></p>
+		</footer>
+    
+    
+     </div>
+    </body> 
+    
+</html>
