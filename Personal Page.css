@@ -1,0 +1,147 @@
+
+body{
+    font-family: sans-serif;
+    font-size: 13px;
+    background-image: url(../img/background.jpg);
+    width:1200px;
+    height:1200px; 
+}
+
+main{
+height:1100px;
+margin-left: 90px;  
+}
+
+.container{
+   width:1200px;
+    height:1200px; 
+    float:left;
+}
+
+
+nav ul{
+ padding-left: 390px;
+}
+
+nav li{
+display: inline-block;
+font-size:25px;
+margin-left:430px;
+margin-left: 20px; 
+}
+
+
+footer{
+width: 1200px;
+background-color:black;
+color:white;
+font-size:14px;
+height:100px;
+float:left;
+    padding: 16px;
+}
+
+section.intro{
+width:800px;
+float:left;
+
+}
+
+section.hobby{
+float:left;
+width:450px;
+}
+
+.h1{
+    margin-top: 35px;
+    padding-top:30px;
+    text-align:center;
+    color: snow;
+    font-size: 40px;
+    font-family: 'Kranky', cursive; 
+}
+
+.h2{
+    color: darkorange;
+    font-size: 37px;
+    margin-left: 300px;
+    margin-top: 200px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.h3{
+   font-family: 'Source Sans Pro', sans-serif;
+    color: darkorange;
+    font-size: 30px;
+    border-bottom: dotted;
+    width:800px;
+    padding-bottom: 5px;
+}
+
+.h4{
+font-size: 15px;
+    color:white;
+text-align: center;
+    border-bottom-style: groove;
+    width: 300px;
+    margin-left: 428px;
+    margin-top: 0px;
+    padding-bottom: 6px;
+}
+
+
+
+ul{
+list-style-type: none;
+color: darkorange;
+    padding-bottom: 5px;
+     width:800px;
+}
+
+li{
+font-size:20px;
+}
+
+a:link{
+text-decoration: none;
+color:orangered;
+}
+
+a:visited{
+	color: white;
+    text-decoration: none;
+}
+
+a:hover{
+	color: orange;
+	background-color:yellow;
+   text-decoration: underline;
+}
+
+.photo {
+    width: 35%;
+    float: left;
+    border-right: dotted;
+    border-top: dotted;
+    border-color: snow;
+    margin-right: 30px;
+    padding:15px;
+    padding-top:25px;
+    padding-bottom:20px;
+    }
+
+.profile{
+width:18%;
+margin-left:460px;
+}
+
+
+
+.p{
+font-size: 18px;
+border-top: dotted;
+border-bottom: dotted;
+border-color: snow;
+padding-top: 10px;
+    
+}
